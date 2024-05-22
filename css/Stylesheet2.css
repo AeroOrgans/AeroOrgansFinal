@@ -1,0 +1,110 @@
+
+/*----------------------------------------*/
+
+/*  1. Footer Area
+/*----------------------------------------*/
+
+.footer-area {
+    padding: 40px 0;
+    background: rgba(0, 0, 0, 0.30);
+   height: auto;
+   
+   
+  }
+  
+  .footer-head p {
+    color: aliceblue;
+  }
+  
+  .footer-head h4 {
+    color: aliceblue;
+    font-size: 16px;
+    letter-spacing: 2px;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .footer-logo {
+    padding-bottom: 10px;
+  }
+  
+  .footer-logo h2 {
+    color: aliceblue;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1;
+  }
+  
+  .footer-logo h2 span {
+    color:#3EC1D5;
+  }
+  
+  .footer-icons ul li {
+    display: inline-block;
+  }
+  
+  .footer-icons ul li a {
+    display: block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background-color: #3EC1D5;
+    font-size: 20px;
+    text-align: center;
+    line-height: 35px;
+    color: aliceblue;
+    line-height: 35px;
+  }
+  
+  
+  .footer-icons {
+    margin-top: 30px;
+  }
+  
+  .footer-contacts p span {
+    color: #3EC1D5;
+    font-weight: 700;
+  }
+  
+  .footer-content {
+    display: block;
+    overflow: hidden;
+  }
+  
+  
+  .footer-area-bottom {
+    background: rgba(0, 0, 0, 0.80);
+    padding: 10px 0;
+  }
+  
+  .copyright-text a:hover {
+    text-decoration: underline;
+    color: #3EC1D5;
+  }
+  
+  .copyright-text a {
+    color: #ffffff;
+  }
+  
+  .copyright>p {
+    margin-bottom: 0;
+    color: #ffffff;
+  }
+  
+  .copyright a, .credits a {
+    color: #3EC1D5;
+  }
+  
+  .credits {
+    padding-top: 2px;
+    text-align: center;
+  }
+
+  i.fa.fa.linkedin{
+
+  }
+
+  i.fa.fa.twitter{
+    
+  }
